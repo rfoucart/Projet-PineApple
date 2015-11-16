@@ -7,3 +7,12 @@
 \\psf\Home\Documents\Visual Studio 2013\Projects\PineApple\PineApple\obj\Debug\PineApple.csproj.GenerateResource.Cache
 \\psf\Home\Documents\Visual Studio 2013\Projects\PineApple\PineApple\obj\Debug\PineApple.exe
 \\psf\Home\Documents\Visual Studio 2013\Projects\PineApple\PineApple\obj\Debug\PineApple.pdb
+D:\TP Info 2A\Projet\PineApple\bin\Debug\PineApple.exe.config
+D:\TP Info 2A\Projet\PineApple\obj\Debug\PineApple.exe
+D:\TP Info 2A\Projet\PineApple\obj\Debug\PineApple.pdb
+D:\TP Info 2A\Projet\PineApple\bin\Debug\PineApple.exe
+D:\TP Info 2A\Projet\PineApple\bin\Debug\PineApple.pdb
+D:\TP Info 2A\Projet\PineApple\obj\Debug\PineApple.csprojResolveAssemblyReference.cache
+D:\TP Info 2A\Projet\PineApple\obj\Debug\PineApple.Form1.resources
+D:\TP Info 2A\Projet\PineApple\obj\Debug\PineApple.Properties.Resources.resources
+D:\TP Info 2A\Projet\PineApple\obj\Debug\PineApple.csproj.GenerateResource.Cache
